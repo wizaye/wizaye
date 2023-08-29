@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Vijayendher Gatla</h1>
 <h3 align="center">A passionate developer, computer enthusiast from Hyderabad,India</h3>
 
@@ -9,7 +7,7 @@
 
 - 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Next JS,**
+- 🌱 I’m currently learning **Next JS**
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence**
 
