@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijayendher Gatla</h1>
 <h3 align="center">A passionate developer, computer enthusiast from Hyderabad,India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wizaye&label=Profile%20views&color=0e75b6&style=flat" alt="wizaye" /> &nbsp </p>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vijayendher) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wizaye.x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vijayendher-gatla) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@wizaye6949) 
 
