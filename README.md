@@ -1,6 +1,8 @@
-  
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" />
+</div>  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&duration=2500&pause=500&width=550&lines=Backend+Developer+by+Day+;Competitive+Programmer+by+Night)](https://git.io/typing-svg)
+
 
 
 ### <div align="center">Hi 👋, I'm Vijayendher Gatla</div>  
