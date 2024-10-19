@@ -1,32 +1,40 @@
 <div align="center">
 <img src="https://imgur.com/gqV1wKh.gif" height=auto  width=1000>
 </div>  
+</br>
+
+###
+
+<div align="center">
+  <a href="https://linkedin.com/in/vijayendher-gatla" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:vijayendhergatla@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://instagram.com/wizaye.x" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
+  </a>
+</div>
 
 
+###
 
+<h1 align="center">Hey there 👋</h1>
 
-### <div align="center">Hi 👋, I'm Vijayendher Gatla</div>  
-  
+###
 
-- 🔭 I’m currently working on Deep Learning
-  
-  
+<h3 align="left">👩‍💻  About Me</h3>
 
-- 🌱 I’m currently learning Next JS
-  
-  
+###
 
-- 👯 I’m looking to collaborate on Artificial Intelligence  
-  
+<p align="left">I'm Vijayendher Gatla from Hyderabad,India<br><br>- 🔭 I’m currently working on Deep Learning<br>- 🌱 I’m currently learning Next JS<br>-  👯 I’m looking to collaborate on Artificial Intelligence<br>-  🤝 I’m looking for help with WEB3  </p>
 
-- 🤝 I’m looking for help with WEB3  
-  
+###
 
-<br/>  
+<h3 align="left">🛠 My Skill Set</h3>
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+### <table><tr><td valign="top" width="33%">
 
 
 
@@ -67,51 +75,39 @@
 
 </td></tr></table>  
 
-<br/>  
+###
 
+<h3 align="left">🧑🏻‍💻 Open Source Contributions :</h3> 
 
-## Connect with me  
-<div align="center">
-<a href="https://instagram.com/wizaye.x" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/wizaye" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Vijayendher_g" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/vijayendher-gatla" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wizaye&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=p9mg2kwwq7a0yva0m6hefq3tn&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=wizaye&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-## Open Source Contributions 
 [![An image of @wizaye's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wizaye)](https://holopin.io/@wizaye)
 
-<br/>  
-<br />
 
-----
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wizaye&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wizaye&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=wizaye&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wizaye&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/wizaye/wizaye/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/wizaye/count.svg?"  />
+</div>
+
+###
