@@ -108,7 +108,10 @@
 
 <br/>  
 
+## Open Source Contributions 
+[![An image of @wizaye's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wizaye)](https://holopin.io/@wizaye)
 
+<br/>  
 <br />
 
 ----
