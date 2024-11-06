@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Vijayendher Gatla loves Jayanth from Hyderabad,India<br><br>- 🔭 I’m currently working on Deep Learning<br>- 🌱 I’m currently learning Next JS<br>-  👯 I’m looking to collaborate on Artificial Intelligence<br>-  🤝 I’m looking for help with WEB3  </p>
+<p align="left">I'm Vijayendher Gatla  from Hyderabad,India<br><br>- 🔭 I’m currently working on Deep Learning<br>- 🌱 I’m currently learning Next JS<br>-  👯 I’m looking to collaborate on Artificial Intelligence<br>-  🤝 I’m looking for help with WEB3  </p>
 
 ###
 
