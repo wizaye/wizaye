@@ -18,6 +18,7 @@
 </div>
 
 
+
 ###
 
 <h1 align="center">Hey there 👋</h1>
@@ -115,3 +116,4 @@
 </div>
 
 ###
+![wizaye's Stats](https://github-readme-stats.vercel.app/api?username=wizaye&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
