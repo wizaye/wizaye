@@ -94,7 +94,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wizaye&show_icons=true&count_private=true&hide_border=false&theme=tokyonight" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=wizaye&show_icons=true&count_private=false&hide_border=false&theme=tokyonight" height="250" alt="stats graph"  />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wizaye&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="220" alt="languages graph"  />
 
