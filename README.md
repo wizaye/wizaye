@@ -1,4 +1,3 @@
-![Metrics](https://metrics.lecoq.io/wizaye?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FCalcutta)
 <div align="center">
   <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="Matrix-inspired banner" height="auto" width="1000">
 </div>
@@ -95,7 +94,7 @@ Hello! I'm **Vijayendher Gatla**, a software engineer from Hyderabad, India, pas
   <img src="https://streak-stats.demolab.com?user=wizaye&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wizaye&radius=16&bg_color=1a1b27&color=c0caf5&line=9e4c98&point=f7768e&area=true" height="300" alt="activity-graph" />
 </div>
-
+[![Metrics](./github-metrics.svg)](github-metrics.svg)
 ---
 
 <div align="center">
