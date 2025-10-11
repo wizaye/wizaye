@@ -81,6 +81,20 @@ Hello! I'm **Vijayendher Gatla**, a software engineer from Hyderabad, India, pas
 ---
 
 ## 🌟 Open Source Contributions
+<div align="center">
+
+[![Hacktoberfest 2024](https://img.shields.io/badge/Hacktoberfest-2024-red?logo=hackthebox&logoColor=white)](https://hacktoberfest.com/)
+
+</div>
+
+[![Holopin Badges](assets/hacktoberfest_2024.png)](assets/hacktoberfest_2024.png)
+
+
+<div align="center">
+
+[![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?logo=hackthebox&logoColor=white)](https://hacktoberfest.com/)
+
+</div>
 
 [![Holopin Badges](https://holopin.me/wizaye)](https://holopin.io/@wizaye)
 
