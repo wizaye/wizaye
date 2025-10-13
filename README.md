@@ -1,33 +1,32 @@
 <div align="center">
-  <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="Matrix-inspired banner" height="auto" width="1000">
+  <img src="assets/illustration-anime-city.jpg" alt="Night city anime skyline" height="auto" width="1000">
 </div>
 <br/>
 
-<div align="center">
-  <a href="https://linkedin.com/in/vijayendher-gatla" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="LinkedIn logo" />
-  </a>
-  <a href="mailto:vijayendhergatla@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="Gmail logo" />
-  </a>
-  <a href="https://instagram.com/wizaye.x" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="Instagram logo" />
-  </a>
+<h1 align="center">こんにちは 🙋🏻</h1>
+
+<div 
+align="center">
+
+<p align="center" style="white-space: nowrap;"><a href="https://dsc.gg/resume-matcher"><img src="https://img.shields.io/badge/Gmail-ef233c?logo=gmail&logoColor=white&style=flat" alt="Mail" height="20"/></a>&nbsp;<a href="https://dsc.gg/resume-matcher"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat" alt="Discord" height="20"/></a>&nbsp;<a href="https://resumematcher.fyi"><img src="https://img.shields.io/badge/Website-006d77?logo=vercel&logoColor=white&style=flat" alt="Website" height="20"/></a>&nbsp;<a href="https://twitter.com/_srbhr_"><img src="https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white&style=flat" alt="Twitter" height="20"/></a>&nbsp;<a href="https://www.linkedin.com/company/resume-matcher/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=flat" alt="LinkedIn" height="20"/></a></p>
+
 </div>
 
-<h1 align="center">Hey There 🙋🏻</h1>
 
 
-## 👨‍💻 About Me
 
-Hello! I'm **Vijayendher Gatla**, a software engineer from Hyderabad, India, passionate about building scalable, robust, and innovative software solutions. My interests span across full-stack development, machine learning, artificial intelligence, and blockchain technology.
 
-- **🔭 Currently:** Working on Deep Learning projects.
-- **🌱 Learning:** Next.js and advanced web technologies.
-- **👯 Looking to collaborate:** On Artificial Intelligence and open-source projects.
-- **🤝 Seeking help:** With Web3 and blockchain technologies.
+<!-- 👨‍💻 About Me -->
 
----
+<h2>👨‍💻 About Me</h2>
+<p>I'm <strong>Vijayendher Gatla</strong>, a backend-focused full-stack AI/ML engineer from India.</p>
+
+<p>I build reliable systems and practical machine learning solutions. Currently, I'm working on <a href="https://github.com/HXQLabs/Helixque" target="_blank" rel="noopener noreferrer">Helixque</a> which is an anonymous platform for real-time matching to host mock interviews and VC pitches.</p>
+
+<p>I'm open to opportunities in full-stack and ML systems development, as well as open-source collaborations.</p>
+
+
+
 
 ## 🛠️ Tech Stack
 
@@ -80,7 +79,10 @@ Hello! I'm **Vijayendher Gatla**, a software engineer from Hyderabad, India, pas
 
 ---
 
-## 🌟 Open Source Contributions
+<!-- 🌟 Open Source Contributions -->
+<h2>🌟 Open Source Contributions</h2>
+<p>I maintain and contribute to developer centric, focused tools.
+
 <div align="center">
 
 [![Hacktoberfest 2024](https://img.shields.io/badge/Hacktoberfest-2024-red?logo=hackthebox&logoColor=white)](https://hacktoberfest.com/)
@@ -100,17 +102,22 @@ Hello! I'm **Vijayendher Gatla**, a software engineer from Hyderabad, India, pas
 
 ---
 
-## 📊 My Stats
+<!-- 📊 Battle Stats intro -->
+<h2>📊 Battle Stats</h2>
+<p>Honestly, I care more about depth and learning than streaks, so expect bursts around OSS sprints and coursework.</p>
+
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wizaye&show_icons=true&count_private=true&hide_border=false&theme=tokyonight" height="250" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wizaye&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="220" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=wizaye&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=wizaye&radius=16&bg_color=1a1b27&color=c0caf5&line=9e4c98&point=f7768e&area=true" height="300" alt="activity-graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wizaye&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" height="250" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wizaye&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="220" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=wizaye&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="220" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wizaye&radius=16&bg_color=1a1b27&color=c0caf5&line=9e4c98&point=f7768e&area=true&hide_border=true" height="300" alt="activity-graph" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/wizaye/count.svg?" alt="Visitor Counter" />
+  <h3>A lil sneak peek of visitors if you care :)</h3>
+  <img src="https://count.getloli.com/@:wizaye?theme=sketch-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
+
