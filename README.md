@@ -8,7 +8,24 @@
 <div 
 align="center">
 
-<p align="center" style="white-space: nowrap;"><a href="https://dsc.gg/resume-matcher"><img src="https://img.shields.io/badge/Gmail-ef233c?logo=gmail&logoColor=white&style=flat" alt="Mail" height="20"/></a>&nbsp;<a href="https://dsc.gg/resume-matcher"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat" alt="Discord" height="20"/></a>&nbsp;<a href="https://resumematcher.fyi"><img src="https://img.shields.io/badge/Website-006d77?logo=vercel&logoColor=white&style=flat" alt="Website" height="20"/></a>&nbsp;<a href="https://twitter.com/_srbhr_"><img src="https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white&style=flat" alt="Twitter" height="20"/></a>&nbsp;<a href="https://www.linkedin.com/company/resume-matcher/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=flat" alt="LinkedIn" height="20"/></a></p>
+<p align="center" style="white-space: nowrap;">
+  <a href="mailto:vijayendhergatla@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ef233c?logo=gmail&logoColor=white&style=flat" alt="Mail" height="20"/>
+  </a>&nbsp;
+  <!-- <a href="#">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat" alt="Discord" height="20"/>
+  </a>&nbsp; -->
+  <a href="https://wizaye.is-a.dev"><!-- Replace with your website URL (e.g., https://wizaye.dev or portfolio link) -->
+    <img src="https://img.shields.io/badge/Website-006d77?logo=vercel&logoColor=white&style=flat" alt="Website" height="20"/>
+  </a>&nbsp;
+  <a href="https://x.com/wizaye_x"><!-- Replace with your X (Twitter) URL (e.g., https://x.com/<handle>) -->
+    <img src="https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white&style=flat" alt="Twitter" height="20"/>
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/vijayendher-gatla">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=flat" alt="LinkedIn" height="20"/>
+  </a>
+</p>
+
 
 </div>
 
